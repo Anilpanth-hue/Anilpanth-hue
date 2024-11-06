@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate on Open-Source Projects<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Full Stack, react.js, node.js, next.js<br>📫 How to reach me @anilpanth44@gmail.com<br>
+🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate on Open-Source Projects<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Full Stack, react.js, node.js, next.js<br>📫 How to reach me anilpanth44@gmail.com<br>
 
 
 ## 🌐 Socials:
